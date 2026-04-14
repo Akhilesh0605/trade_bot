@@ -1,0 +1,4 @@
+# Core dependencies
+requests>=2.31.0          # HTTP client with retry support
+urllib3>=2.0.0            # HTTP library (included with requests, explicit for Retry strategy)
+python-dotenv>=1.0.0      # Environment variable management

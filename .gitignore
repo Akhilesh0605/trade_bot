@@ -1,0 +1,32 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+trade_bot/
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+.env.*
+
+# Logs and runtime files
+logs/
+*.log
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
