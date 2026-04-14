@@ -154,9 +154,8 @@ Each log entry includes:
 ## Sample Logs (Assets)
 
 Sample log snapshots are stored in the `assets/` folder for quick review:
-
-- ![Log Output](assets/Screenshot 2026-04-14 215036.png)
-- ![Log Output](assets/Screenshot 2026-04-14 215053.png)
+![Log Output](assets/Screenshot 2026-04-14 215036.png)
+![Log Output](assets/Screenshot 2026-04-14 215053.png)
 
 
 You can use these screenshots to show request/response flow, retry attempts, and error traces without opening the raw `.log` files.
